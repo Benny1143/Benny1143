@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning Personal Finance
 - 💬 Ask me about Web Development
-- 📫 How to reach me: (@bentechkie)[https://twitter.com/bentechkie]
+- 📫 How to reach me: [@bentechkie](https://twitter.com/bentechkie)
 - ⚡ Fun fact: I watch anime at 2am 🤣
 
 <!-- - 👯 I’m looking to collaborate on Finance for all
