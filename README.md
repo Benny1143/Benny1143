@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Personal Finance
+- 🔭 I’m currently working on OSSU course
+- 🌱 I’m currently learning Computer Science
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [@bentechkie](https://twitter.com/bentechkie)
 - ⚡ Fun fact: I watch anime at 2am 🤣
