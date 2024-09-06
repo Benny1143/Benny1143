@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on OSSU course
 -->
 - 🌱 I’m currently an Undergraduate studying Computer Science at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/)
+- 👨🏻‍💻 Working Software Engineer at [pQCee: Be Quantum Ready](https://www.pqcee.com/)
 - 💬 Ask me about Web Development
 - ⚡ Fun fact: I'm an traveller, I like to explore different countries for their rich culturals and people
   - `Hanoi, Vietnam` [SUTD DES&TWxVNU-UET FACT Trip](https://www.instagram.com/p/CvW6FDgBVPX/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
