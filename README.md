@@ -10,9 +10,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on OSSU course
 -->
 - 🌱 I’m currently an Undergraduate studying Computer Science at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/)
-- 👨🏻‍💻 Working Software Engineer at [pQCee: Be Quantum Ready](https://www.pqcee.com/)
-- 💬 Ask me about Web Development
+- 📍 Currently at Taipei, Taiwan 🇹🇼 🧋
+- 👨🏻‍💻 Post-quantum cryptography (PQC) Research Intern at [Foxconn, Hon Hai Research Institute (HHRI)](https://www.hh-ri.com/en/)
+  - 👨🏻‍💻 Ex-Software Engineer at [pQCee: Be Quantum Ready](https://www.pqcee.com/)
+- 💬 Ask me about </> Web Development, ⚛ Quantum Computing and 🔐 Post-quantum cryptography (PQC)
 - ⚡ Fun fact: I'm an traveller, I like to explore different countries for their rich culturals and people
+  - `Hsinchu, Taiwan` [SUTD Global Exchange Programme – GEXP (outbound exchange) at National Yang Ming Chiao Tung University (NYCU)](https://www.sutd.edu.sg/campus-life/global-experience-and-exchange/student-exchange/outbound/global-exchange-programme-gexp/)
   - `HCMC, Vietnam` [NUS Innovation X Impact Immersion Programme](https://www.instagram.com/p/DDqYV7oyLZQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
   - `KL, Malaysia` [Student Ambassador at PMI 2024 Asia Pacific/South Asian Leadership Institute Meeting](https://www.linkedin.com/posts/bennygo_projectmanagement-networking-activity-7223550269446402048-GHjQ?utm_source=share&utm_medium=member_desktop)
   - `Hanoi, Vietnam` [SUTD DES&TWxVNU-UET FACT Trip](https://www.instagram.com/p/CvW6FDgBVPX/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
